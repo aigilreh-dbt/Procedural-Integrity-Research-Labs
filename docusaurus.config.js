@@ -8,10 +8,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Настройки для GitHub Pages
-  url: 'https://your-username.github.io', // ЗАМЕНИТЕ на ваш URL
-  baseUrl: '/my-research-lab/',           // ЗАМЕНИТЕ на имя репозитория
-  organizationName: 'your-username',      // ЗАМЕНИТЕ на ваш GitHub ник
-  projectName: 'my-research-lab',         // ЗАМЕНИТЕ на имя репо
+  url: 'https://aigilreh-dbt.github.io', // ЗАМЕНИТЕ на ваш URL
+  baseUrl: '/Procedural-Integrity-Research-Labs/',           // ЗАМЕНИТЕ на имя репозитория
+  organizationName: 'aigilreh-dbt',      // ЗАМЕНИТЕ на ваш GitHub ник
+  projectName: 'Procedural-Integrity-Research-Labs',         // ЗАМЕНИТЕ на имя репо
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
