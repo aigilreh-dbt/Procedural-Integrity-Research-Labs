@@ -1,4 +1,3 @@
-# Website
 
 (C) Alexander HESIN, 2026
 
